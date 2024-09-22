@@ -13,7 +13,7 @@ class TukuApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Tuku App',
       theme: ThemeData(
        
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
