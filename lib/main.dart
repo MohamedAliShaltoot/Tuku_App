@@ -16,7 +16,7 @@ class TukuApp extends StatelessWidget {
       title: 'Tuku App',
       theme: ThemeData(
        
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 225, 223, 228)),
         useMaterial3: true,
       ),
       home: const LogIn(),

@@ -19,7 +19,7 @@ class _PasswordFelidState extends State<PasswordFelid> {
       decoration: InputDecoration(
     filled: true,
     hintStyle: const TextStyle(color: Colors.white),
-    fillColor: const Color.fromARGB(255, 33, 68, 96),
+    fillColor: const Color.fromARGB(255, 10, 132, 232),
     border: OutlineInputBorder(
         borderSide: const BorderSide(color: Colors.white, width: 1),
         borderRadius: BorderRadius.circular(50)),
